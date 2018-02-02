@@ -1,0 +1,10 @@
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\bin\Debug\netcoreapp2.0\strategy_pattern.deps.json
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\bin\Debug\netcoreapp2.0\strategy_pattern.runtimeconfig.json
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\bin\Debug\netcoreapp2.0\strategy_pattern.runtimeconfig.dev.json
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\bin\Debug\netcoreapp2.0\strategy_pattern.dll
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\bin\Debug\netcoreapp2.0\strategy_pattern.pdb
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\obj\Debug\netcoreapp2.0\strategy_pattern.csproj.CoreCompileInputs.cache
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\obj\Debug\netcoreapp2.0\strategy_pattern.AssemblyInfoInputs.cache
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\obj\Debug\netcoreapp2.0\strategy_pattern.AssemblyInfo.cs
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\obj\Debug\netcoreapp2.0\strategy_pattern.dll
+c:\Users\tkarropoulos\Documents\VS Code Tutorials\DotnetCore\strategy_pattern\obj\Debug\netcoreapp2.0\strategy_pattern.pdb
